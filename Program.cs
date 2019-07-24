@@ -13,7 +13,7 @@ namespace ListaBISuperCompacta
         {
             var listaBI = new ListaBI();
             Console.WriteLine("digite o nome que deseja pesquisar");
-
+            
             listaBI.PesquisaLista(Console.ReadLine());
 
             Console.ReadKey();
