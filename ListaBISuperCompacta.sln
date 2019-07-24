@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaBISuperCompacta", "ListaBISuperCompacta.csproj", "{2C97EFA7-8059-4CE4-BDBF-E0BDE36044BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C97EFA7-8059-4CE4-BDBF-E0BDE36044BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C97EFA7-8059-4CE4-BDBF-E0BDE36044BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C97EFA7-8059-4CE4-BDBF-E0BDE36044BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C97EFA7-8059-4CE4-BDBF-E0BDE36044BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0993ED5E-4EE9-45A2-9958-86B5A902046F}
+	EndGlobalSection
+EndGlobal
